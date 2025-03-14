@@ -50,6 +50,14 @@ Install the application – Click the Medicine Inventory.exe to install
 
 Launch the system – Open the application after installation to start using it.
 
+If the system does not open:
+
+Go to the Releases section on GitHub.
+
+Click on Initial Release.
+
+Download and reinstall MedicineInventory.exe.
+
 
 
 
